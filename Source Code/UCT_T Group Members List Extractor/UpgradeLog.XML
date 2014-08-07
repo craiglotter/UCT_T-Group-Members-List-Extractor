@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Commerce Group Members List Extractor">
+</Property><Property Name="Solution File" Value="C:\Work Projects\Incomplete Projects\UCT_T Group Members List Extractor - 22 May 2006\Source Code\Commerce Group Members List Extractor\Commerce Group Members List Extractor.sln">
+</Property><Property Name="User Options File" Value="C:\Work Projects\Incomplete Projects\UCT_T Group Members List Extractor - 22 May 2006\Source Code\Commerce Group Members List Extractor\Commerce Group Members List Extractor.suo">
+</Property><Property Name="Date" Value="22 May 2006">
+</Property><Property Name="Time" Value="14:56 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Commerce Group Members List Extractor.sln" Description="File successfully backed up as C:\Work Projects\Incomplete Projects\UCT_T Group Members List Extractor - 22 May 2006\Source Code\Commerce Group Members List Extractor\Backup\Commerce Group Members List Extractor.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Commerce Group Members List Extractor.suo" Description="File successfully backed up as C:\Work Projects\Incomplete Projects\UCT_T Group Members List Extractor - 22 May 2006\Source Code\Commerce Group Members List Extractor\Backup\Commerce Group Members List Extractor.suo">
+</Event><Event ErrorLevel="0" Project="Commerce Group Members List Extractor" Source="Commerce Group Members List Extractor.csproj" Description="Project file successfully backed up as C:\Work Projects\Incomplete Projects\UCT_T Group Members List Extractor - 22 May 2006\Source Code\Commerce Group Members List Extractor\Backup\Commerce Group Members List Extractor.csproj">
+</Event><Event ErrorLevel="0" Project="Commerce Group Members List Extractor" Source="Commerce Group Members List Extractor.csproj.user" Description="Project user file successfully backed up as C:\Work Projects\Incomplete Projects\UCT_T Group Members List Extractor - 22 May 2006\Source Code\Commerce Group Members List Extractor\Backup\Commerce Group Members List Extractor.csproj.user">
+</Event><Event ErrorLevel="0" Project="Commerce Group Members List Extractor" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Work Projects\Incomplete Projects\UCT_T Group Members List Extractor - 22 May 2006\Source Code\Commerce Group Members List Extractor\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Commerce Group Members List Extractor" Source="Member_List_Extractor.cs" Description="File successfully backed up as C:\Work Projects\Incomplete Projects\UCT_T Group Members List Extractor - 22 May 2006\Source Code\Commerce Group Members List Extractor\Backup\Member_List_Extractor.cs">
+</Event><Event ErrorLevel="0" Project="Commerce Group Members List Extractor" Source="App.ico" Description="File successfully backed up as C:\Work Projects\Incomplete Projects\UCT_T Group Members List Extractor - 22 May 2006\Source Code\Commerce Group Members List Extractor\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="Commerce Group Members List Extractor" Source="Commerce Group Members List Extractor.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Commerce Group Members List Extractor" Source="Commerce Group Members List Extractor.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Commerce Group Members List Extractor.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Commerce Group Members List Extractor.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Commerce Group Members List Extractor" Source="Commerce Group Members List Extractor.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
